@@ -6,6 +6,7 @@ public class DoWhileSchleife {
 
         int ausdauer = 7;
 
+        //Loop der eine Nachricht ausgibt bis die Ausdauer auf 0 fällt.
         do{
             System.out.println("Du bist einen Stunde Fahrrad gefahren, vergiss nicht eine Pause einzulegen.");
             ausdauer--;
